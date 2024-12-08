@@ -39902,7 +39902,7 @@ p=p===B.dB
 s=p?45:52
 r=p?13:18
 p=t.p
-return A.cN(q,A.m8(A.b([A.np(A.b([A.cu("For ",q,q,q,A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q),q,q),A.l6(new A.tm(A.b([A.ap4("Doctors.",A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q)),A.ap4("Patients.",A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q))],t.u6),B.cM,!0,q),q,220)],p),B.a9,B.aH,B.aj),B.ep,A.cu("Healthcare Revamp is a new software, we understand, that things can be a little difficult and shit and we are likeokay and stuf and now okay fool cool byro bro okay nice bro. cool",q,q,q,A.dU(q,q,q,q,q,q,q,q,q,q,q,r,q,q,q,q,1.5,!0,q,q,q,q,q,q,q,q),o,q)],p),B.bE,B.cS,B.aj),B.r,q,q,q,q,q,q,q,q,q,600)},
+return A.cN(q,A.m8(A.b([A.np(A.b([A.cu("For ",q,q,q,A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q),q,q),A.l6(new A.tm(A.b([A.ap4("Doctors.",A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q)),A.ap4("Patients.",A.dU(q,q,q,q,q,q,q,q,q,q,q,s,q,q,B.ae,q,1.2,!0,q,q,q,q,q,q,q,q))],t.u6),B.cM,!0,q),q,220)],p),B.a9,B.aH,B.aj),B.ep,A.cu("Healthcare Revamp is a new project that focuses on developing an extensive ontology of diseases by combining different healthcare datasets to ensure that access and usability of the data are warranted.",q,q,q,A.dU(q,q,q,q,q,q,q,q,q,q,q,r,q,q,q,q,1.5,!0,q,q,q,q,q,q,q,q),o,q)],p),B.bE,B.cS,B.aj),B.r,q,q,q,q,q,q,q,q,q,600)},
 $S:298}
 A.DG.prototype={
 H(a){return A.ajL(null,B.Ia,B.Ib)}}
